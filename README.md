@@ -36,7 +36,7 @@ The graph below indicates the number of trips by duration, it shows that the maj
 
 
 ## Summary
-In conclusion, The bikeshare data analysis shows bikeshare services is popular in high traffic/busy areas of New York mostly during the month of August 2019 due to the nice weather.
+In conclusion, The bikeshare data analysis shows bikeshare services is popular in high traffic/busy areas of New York mostly during the month of August 2019 due to the nice weather(Higher number Tourists).
 The majority of the rides were concentrated in the tourist location and commercial area of Manhattan. Most of the rideshare customers are male users and they rent the bikes  during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
 
 Due to the seasonality of this business, it is recommended to have additional statistical analysis and visualization to compare data for different months to determine trends across the year and also weather impact analysis to check the correlation between weather and rides.
