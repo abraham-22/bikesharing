@@ -7,6 +7,7 @@ During her visit to NYC, Kate noticed the benefit of the CitiBike program. After
 ## Resources
 * Data Source: [Citi Bike Data](https://citibikenyc.com/system-data), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html)
 * Software: Python 3.11.1., Anaconda Navigator 2022.10, Jupyter Notebook 6.5.2, Tableau Public 2022.1
+* This Tableau story can be seen: [Tableau Link](https://public.tableau.com/app/profile/aavram.abate/viz/CitiBike_data/Users)
 
 ## Results:
 The total number of trips in August was 2,344,224. When we see the proportion of short-term customers of the bike service to the annual subscribers, there are 157,671 who short-term riders and 1,900,359 annual subscribers. The majority (81%) of the customer of NYC Citibike are annual subscriber this indicates the business will have strong income foundation by attracting long term customers. When we see Gender breakdown, 65.2% of the customers are male and 25% of them are females.  Chart shown below.
