@@ -1,4 +1,4 @@
-# Citi Bike in DM
+# NYC Citi Bike
 
 ## Overview of the statistical analysis:
 
